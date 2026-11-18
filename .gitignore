@@ -1,0 +1,18 @@
+# Build output
+/build/
+build/
+cmake-build-*/
+
+# CTest / runtime artifacts
+Testing/
+*.pirplain
+*.pirplain.json
+*.pirdata
+*.json.tmp
+*.tmp
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+.DS_Store
